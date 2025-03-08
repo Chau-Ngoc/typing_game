@@ -1,0 +1,189 @@
+[
+  {
+    "dependencies": [],
+    "installed_version": "1.9.0",
+    "key": "evdev",
+    "package_name": "evdev",
+    "required_version": "1.9.0"
+  },
+  {
+    "dependencies": [],
+    "installed_version": "5.13.2",
+    "key": "isort",
+    "package_name": "isort",
+    "required_version": "5.13.2"
+  },
+  {
+    "dependencies": [],
+    "installed_version": "4.1.3",
+    "key": "line-profiler",
+    "package_name": "line_profiler",
+    "required_version": "4.1.3"
+  },
+  {
+    "dependencies": [],
+    "installed_version": "5.3.0",
+    "key": "lxml",
+    "package_name": "lxml",
+    "required_version": "5.3.0"
+  },
+  {
+    "dependencies": [
+      {
+        "dependencies": [],
+        "installed_version": "0.1.2",
+        "key": "mdurl",
+        "package_name": "mdurl",
+        "required_version": "~=0.1"
+      }
+    ],
+    "installed_version": "3.0.0",
+    "key": "markdown-it-py",
+    "package_name": "markdown-it-py",
+    "required_version": "3.0.0"
+  },
+  {
+    "dependencies": [
+      {
+        "dependencies": [],
+        "installed_version": "3.4.0",
+        "key": "cfgv",
+        "package_name": "cfgv",
+        "required_version": ">=2.0.0"
+      },
+      {
+        "dependencies": [],
+        "installed_version": "2.6.3",
+        "key": "identify",
+        "package_name": "identify",
+        "required_version": ">=1.0.0"
+      },
+      {
+        "dependencies": [],
+        "installed_version": "1.9.1",
+        "key": "nodeenv",
+        "package_name": "nodeenv",
+        "required_version": ">=0.11.1"
+      },
+      {
+        "dependencies": [],
+        "installed_version": "6.0.2",
+        "key": "pyyaml",
+        "package_name": "PyYAML",
+        "required_version": ">=5.1"
+      },
+      {
+        "dependencies": [
+          {
+            "dependencies": [],
+            "installed_version": "0.3.9",
+            "key": "distlib",
+            "package_name": "distlib",
+            "required_version": ">=0.3.7,<1"
+          },
+          {
+            "dependencies": [],
+            "installed_version": "3.16.1",
+            "key": "filelock",
+            "package_name": "filelock",
+            "required_version": ">=3.12.2,<4"
+          },
+          {
+            "dependencies": [],
+            "installed_version": "4.3.6",
+            "key": "platformdirs",
+            "package_name": "platformdirs",
+            "required_version": ">=3.9.1,<5"
+          }
+        ],
+        "installed_version": "20.28.0",
+        "key": "virtualenv",
+        "package_name": "virtualenv",
+        "required_version": ">=20.10.0"
+      }
+    ],
+    "installed_version": "4.0.1",
+    "key": "pre-commit",
+    "package_name": "pre_commit",
+    "required_version": "4.0.1"
+  },
+  {
+    "dependencies": [],
+    "installed_version": "2.5.3",
+    "key": "pygame-ce",
+    "package_name": "pygame-ce",
+    "required_version": "2.5.3"
+  },
+  {
+    "dependencies": [],
+    "installed_version": "2.18.0",
+    "key": "pygments",
+    "package_name": "Pygments",
+    "required_version": "2.18.0"
+  },
+  {
+    "dependencies": [
+      {
+        "dependencies": [],
+        "installed_version": "1.17.0",
+        "key": "six",
+        "package_name": "six",
+        "required_version": ">=1.10.0"
+      }
+    ],
+    "installed_version": "0.33",
+    "key": "python-xlib",
+    "package_name": "python-xlib",
+    "required_version": "0.33"
+  },
+  {
+    "dependencies": [
+      {
+        "dependencies": [],
+        "installed_version": "2024.8.30",
+        "key": "certifi",
+        "package_name": "certifi",
+        "required_version": ">=2017.4.17"
+      },
+      {
+        "dependencies": [],
+        "installed_version": "3.4.0",
+        "key": "charset-normalizer",
+        "package_name": "charset-normalizer",
+        "required_version": ">=2,<4"
+      },
+      {
+        "dependencies": [],
+        "installed_version": "3.10",
+        "key": "idna",
+        "package_name": "idna",
+        "required_version": ">=2.5,<4"
+      },
+      {
+        "dependencies": [],
+        "installed_version": "2.2.3",
+        "key": "urllib3",
+        "package_name": "urllib3",
+        "required_version": ">=1.21.1,<3"
+      }
+    ],
+    "installed_version": "2.32.3",
+    "key": "requests",
+    "package_name": "requests",
+    "required_version": "2.32.3"
+  },
+  {
+    "dependencies": [],
+    "installed_version": "0.8.1",
+    "key": "ruff",
+    "package_name": "ruff",
+    "required_version": "0.8.1"
+  },
+  {
+    "dependencies": [],
+    "installed_version": "4.12.2",
+    "key": "typing-extensions",
+    "package_name": "typing_extensions",
+    "required_version": "4.12.2"
+  }
+]

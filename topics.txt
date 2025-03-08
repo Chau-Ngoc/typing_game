@@ -1,0 +1,9 @@
+gaussian
+physics
+image classification
+convolutional neural network
+fourier transform
+vision transformers
+deep learning
+medical
+astronomy
